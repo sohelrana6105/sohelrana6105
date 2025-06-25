@@ -3,7 +3,7 @@
 
 
 
-### 👋 Hi, I’m Mostafa Kamal
+### 👋 Hi, I’m Sohel Rana
 #### 💻 Full Stack Web Developer | MERN | Firebase | Tailwind
 
 ---
