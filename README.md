@@ -39,6 +39,6 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
 ---
 
 ### 📊 GitHub Stats
-![sohel Rana](https://github-readme-stats.vercel.app/api?username=devmostafakamal&show_icons=true&theme=tokyonight)
+![sohel Rana]([https://github-readme-stats.vercel.app/api?username=devmostafakamal&show_icons=true&theme=tokyonight](https://github.com/sohelrana6105))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmostafakamal&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devmostafakamal&theme=tokyonight)](https://git.io/streak-stats)
