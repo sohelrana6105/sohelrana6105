@@ -32,7 +32,7 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
 
 ### 🌐 Connect with me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mdmostafakamal.kamal.589)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)]([https://www.facebook.com/mdmostafakamal.kamal.589](https://www.facebook.com/sohel.sohel.605107))
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
 
