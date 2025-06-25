@@ -1,11 +1,44 @@
  <img src="https://github.com/sohelrana6105/sohelrana6105/blob/main/Github-banner.png" width="1200" height="300" alt="Project Banner">
 
-  <P  style="text-align: center"> About me </P>
 
-  
-Hi, This is Sohel  a web developer who loves creating websites that are both useful and easy to use. With a background in Information and communication of technology, I focus on building responsive websites and web apps that work well on any device. I work with tools like JavaScript, React.js, Tailwind Css, Bootstarp, Firebase, github, HTML, CSS3, Node.js, Express.js, MongoDB and always learn new skills to keep up with the latest trends. I enjoy solving problems, designing simple and clear user interfaces, and turning creative ideas into reality. In my free time, I like playing, walking on noise free road, my large campus, village road, forest, etc. . I’m excited to work on projects that make a difference and would love to help bring your ideas to life!
 
-✨ Creating bugs since 2024
-📚 I'm currently learning mongoDB,next.js
-🎯 Goals: Full Stack Developer
-🎲 Fun fact: Sleeping
+
+### 👋 Hi, I’m Mostafa Kamal
+#### 💻 Full Stack Web Developer | MERN | Firebase | Tailwind
+
+---
+
+### 🧑‍💼 About Me
+I am a passionate full-stack web developer from Bangladesh. I love building dynamic and responsive web applications using the latest technologies. I’m currently exploring advanced topics like *Next.js*, *JWT Auth*, and *Map Integration* in React.
+
+---
+
+### 🚀 Current Activities
+- 🔭 Working on a *Parcel Delivery Web App*
+- 🌱 Learning *Next.js & Web Security*
+- 🧪 Practicing *Node.js API with Firebase Auth*
+- 🗺️ Building *Map View for Service Centers*
+- 📘 Writing clean and reusable code every day
+
+---
+
+### 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,mongodb,tailwind,github,vscode" />
+</p>
+
+---
+
+### 🌐 Connect with me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mdmostafakamal.kamal.589)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
+
+---
+
+### 📊 GitHub Stats
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmostafakamal&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmostafakamal&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devmostafakamal&theme=tokyonight)](https://git.io/streak-stats)
