@@ -33,9 +33,24 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
 
 ### 🌐 Connect with me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)]([https://www.facebook.com/mdmostafakamal.kamal.589](https://www.facebook.com/sohel.sohel.605107))
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
+
+<a href="https://wa.me/919876543210" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="tel:+919876543210" target="_blank">
+  <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+</a>
+<a href="https://facebook.com/john.doe" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://linkedin.com/in/john-doe-123456" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+
+
+
 
 ---
 
