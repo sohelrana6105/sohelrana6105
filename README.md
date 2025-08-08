@@ -35,17 +35,19 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
 
 
 
+<a href="" target="">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> 01761050922
+</a>
+<a href="" target="">
+  <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>  01761050922
+</a>
+<a href="https://www.facebook.com/sohel.sohel.605107" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.linkedin.com/in/sohel-rana-7aa40a379/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919876543210)  
-📞 +91 98765 43210
-
-[![Phone](https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white)](tel:+919876543210)  
-📱 +91 98765 43210
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sohel.sohel.605107)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohel-rana-7aa40a379/)
 
 
 
