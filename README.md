@@ -14,6 +14,7 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
 ---
 
 ### 🚀 Current Activities
+
 - 🔭 Working on a *Parcel Delivery Web App*
 - 🌱 Learning *Next.js & Web Security*
 - 🧪 Practicing *Node.js API with Firebase Auth*
