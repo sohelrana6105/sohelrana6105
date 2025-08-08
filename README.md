@@ -41,10 +41,10 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
 <a href="tel:+919876543210" target="_blank">
   <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
 </a>
-<a href="https://facebook.com/john.doe" target="_blank">
+<a href="https://www.facebook.com/sohel.sohel.605107" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="https://linkedin.com/in/john-doe-123456" target="_blank">
+<a href="https://www.linkedin.com/in/sohel-rana-7aa40a379/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
