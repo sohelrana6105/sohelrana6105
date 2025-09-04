@@ -32,10 +32,10 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 
-  <a href="tel:+8801761050922" target="_blank" style="display: flex; align-items: center; text-decoration: none; gap: 5px;">
-   <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-    <span style="font-size: 16px; font-weight: bold; color: black;">+8801761050922</span>
-  </a>
+<a href="tel:+8801761050922" target="_blank">
+  <img src="https://img.shields.io/badge/Phone:+8801761050922-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+</a>
+
 
   <a href="https://www.facebook.com/sohel.sohel.605107" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
