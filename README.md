@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💼 About Me
-I am a passionate full-stack web developer from Bangladesh. I love building dynamic and responsive web applications using the latest technologies. I’m currently exploring advanced topics like *Next.js*, *JWT Auth*, and *Map Integration* in React.
+I am  a Mern-Stack  developer,  specializing in building scalable, responsive, and user-focused web applications. I design, develop, and optimize modern solutions using the latest technologies. Currently, I’m advancing my expertise in Next.js, JWT authentication, and React map integration to deliver more secure and dynamic applications.
 
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
