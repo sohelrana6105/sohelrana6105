@@ -33,7 +33,7 @@ I am a passionate full-stack web developer from Bangladesh. I love building dyna
   </a>
 
   <a href="tel:+8801761050922" target="_blank" style="display: flex; align-items: center; text-decoration: none; gap: 5px;">
-    <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  
     <span style="font-size: 16px; font-weight: bold; color: black;">+8801761050922</span>
   </a>
 
